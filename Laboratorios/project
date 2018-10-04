@@ -1,0 +1,13 @@
+----------------------Diseño e Implementación de Servicios Web para Sistemas de Información--------------
+El objetivo de los servicios web es hacer que los recursos de datos estén disponibles a través de Internet para las aplicaciones (programas) escritas en cualquier idioma. Hay dos enfoques para los servicios web: SOAP (donde "SOAP" significa "Simple Object Access Protocol") y RESTful (donde "REST" significa "Representational State Transfer"). Los servicios web RESTful ahora se han reconocido como los métodos más útiles para proporcionar servicios de datos para el desarrollo de aplicaciones web y móviles.
+
+El objetivo de la tesis es estudiar el concepto de servicios web RESTful en profundidad y construir un catálogo de patrones para el diseño de servicios web intensivos en datos. El objetivo del catálogo es actuar como una guía para el diseño práctico de servicios web para el desarrollo de aplicaciones.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Tema 1: Uso del sistema recomendado basado en casos para la selección del sujeto
+
+La razón detrás de esta investigación es la necesidad de un sistema práctico que pueda ser utilizado por los estudiantes para seleccionar materias durante su estudio. Si bien el consejo del coordinador del curso y la breve descripción del tema en el manual son utilizados con mayor frecuencia por los estudiantes para tomar una decisión, pueden tomar decisiones más informadas al usar la experiencia de los alumnos anteriores. En esta tesis, el estudiante utilizará razonamiento basado en casos (CBR) para diseñar y desarrollar un sistema de recomendación para la selección de sujetos en el contexto de la educación superior. El componente de investigación de este proyecto es la identificación y validación del enfoque de CBR y sus parámetros para el sistema de recomendación.
+
+----------------------------------------------------------------------------------------------------------------------------------
+--------Detección de comportamientos de usuarios inadecuados en redes sociales en línea-------------------
+Las redes sociales en línea (OSN) brindan beneficios para las actividades de la vida diaria. También traen consigo varios riesgos al facilitar el comportamiento incorrecto de los usuarios. En este estudio, el alumno seleccionará un tipo de comportamientos inadecuados en OSN ( acoso cibernético, campaña de odio, etc.) y utilizará una técnica disponible, como análisis de sentimiento, para evitar o contrarrestar el comportamiento. El resultado de esta investigación es una estrategia o política que pueden considerar los proveedores de OSN.
